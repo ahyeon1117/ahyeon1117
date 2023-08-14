@@ -39,3 +39,10 @@
 <div align="center">
  <h2>Project</h2>
 </div>
+
+<div align="center">
+ <h2>Certificate</h2>
+  <div>정보처리 기능사</div>
+  <div>정보기기 운용 기능사</div>
+ </ul> 
+</div>

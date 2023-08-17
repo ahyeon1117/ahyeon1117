@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
- <h2>Learning</h2> 
+ <h3>🛠Tech Stack>🛠</h3>
+  <hr/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white" />
@@ -23,8 +24,9 @@
   <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
+<hr/>
 <div align="center">
- <h2>Certificate</h2>
+  <h3>📄Certificate📄</h3>
   <div>정보처리 기능사</div>
   <div>정보기기 운용 기능사</div>
  </ul> 

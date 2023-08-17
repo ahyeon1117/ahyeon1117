@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <h2>Languege</h2> 
+ <h2>Learning</h2> 
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white" />
@@ -12,42 +12,17 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </div>
-
-<div align="center">
- <h2>Framework</h2>
-</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-</div>
-
-<div align="center">
- <h2>Container</h2>
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</div>
-
-<div align="center">
- <h2>Build</h2>
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-</div>
-
-<div align="center">
- <h2>Database</h2>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
-
-<div align="center">
- <h2>Project</h2>
-</div>
-
 <div align="center">
  <h2>Certificate</h2>
   <div>정보처리 기능사</div>

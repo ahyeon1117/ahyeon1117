@@ -27,7 +27,7 @@
 <hr/>
 <div align="center">
   <h3>📄Blog📄</h3>
-  <div>https://mad-at-develop.tistory.com/</div>
+  <a href="https://mad-at-develop.tistory.com">[Tistory 개인 블로그]</a>
  </ul> 
 </div>
 <hr/>

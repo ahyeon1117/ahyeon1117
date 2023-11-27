@@ -26,6 +26,12 @@
 </div>
 <hr/>
 <div align="center">
+  <h3>📄Blog📄</h3>
+  <div>https://mad-at-develop.tistory.com/</div>
+ </ul> 
+</div>
+<hr/>
+<div align="center">
   <h3>📄Certificate📄</h3>
   <div>정보처리 기능사</div>
   <div>정보기기 운용 기능사</div>

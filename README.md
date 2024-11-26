@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <h3>🛠Tech Stack🛠</h3>
+ <h2>🛠Tech Stack🛠</h2>
   <hr/>
 </div>
 <div align="center">

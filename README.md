@@ -4,7 +4,6 @@
 
 <div align="center">
  <h2>🛠Tech Stack🛠</h2>
-  <hr/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white" />

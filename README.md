@@ -25,14 +25,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 </div>
-<hr/>
+
 <div align="center">
   <h3>📄Blog📄</h3>
   <a href="https://mad-at-develop.tistory.com">[Tistory 개인 블로그]</a>
  </ul> 
 </div>
 
-<hr/>
 <div align="center">
   <h3>📄Certificate📄</h3>
   <div>정보처리 기능사</div>

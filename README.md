@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=auto&section=header&text=안녕하세요%20방아현%20입니다&fontSize=40&customColorList=27" />
-</div>
 
 <div align="center">
  <h2>🛠Tech Stack🛠</h2>
